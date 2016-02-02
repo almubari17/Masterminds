@@ -1,0 +1,7 @@
+1-Start Game
+2-Quit
+3-Pick Ball
+4-Place Ball
+5-Restart game.
+6-Check.
+7-Easy/Hard Switch.
